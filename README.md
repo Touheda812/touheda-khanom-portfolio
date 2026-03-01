@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Touheda Khanom
 
-🎓 B.Tech in Computer Engineering Technology  
-💼 Computer Engineering Graduate | Aspiring Data Analyst & Exploring Careers in Technology & IT  
-📍 Based in New York, NY | Open to Full-time Onsite, Hybrid/Remote Roles  
+🎓 Pursuing M.S. in Cybersecurity, NYU
+🎓 B.Tech in Computer Engineering Technology
+💼 Cybersecurity & Data Analytics Professional | Technology & IT
+📍 New York, NY | Open to Full-time Onsite, Hybrid, or Remote Roles
 
 ---
 
