@@ -1,131 +1,118 @@
-# 👋 Hi, I'm Touheda Khanom
+# Touheda Khanom
+**Cybersecurity Graduate Student | Computer Engineering Technologist | IT Support, Software Development & Data Analytics**
 
-🎓 Pursuing M.S. in Cybersecurity, NYU Tandon   
-🎓 B.Tech in Computer Engineering Technology  
-💼 Cybersecurity & Data Analytics Professional | Technology & IT  
-📍 New York, NY | Open to Full-time Onsite, Hybrid, or Remote Roles  
+📍 New York, NY · [LinkedIn](https://www.linkedin.com/in/touheda-khanom/) · [GitHub](https://github.com/Touheda812) · [Email](mailto:touhedakhanom14@gmail.com)
 
----
+## About Me
 
-## 💡 About Me  
+I'm a cybersecurity graduate student at **NYU Tandon School of Engineering** with a **B.Tech in Computer Engineering Technology from City Tech, CUNY**. My interests span cybersecurity, IT and application support, networking, software development, and data analytics.
 
-I'm a detail-oriented technology professional passionate about solving real-world problems using **data, analytics, and web development**.  
-With a background in computer engineering and hands-on experience in **Python, SQL, JavaScript, and BI tools**, I’ve worked on projects involving:  
+My experience combines hands-on technical work with user-facing support. At **MTA Bridges & Tunnels**, I worked with internal tolling-related web applications and investigated application issues. During an internship at **Morgan Stanley**, I gained experience debugging Java applications. In my current role at **York College's Financial Aid Office**, I assist students, explain processes clearly, and handle confidential information responsibly.
 
-- Data Cleaning & Transformation  
-- Dashboard Building (Power BI, Excel)  
-- Web Development (HTML, CSS, JS)  
-- Software Testing & Quality Assurance  
+Through academic, research, and independent projects, I've worked with Python, JavaScript, SQL, networking protocols, software testing, data analysis, Arduino, and digital electronics. I enjoy understanding how systems work, troubleshooting problems methodically, and building practical solutions.
 
-I also have experience using tools like **PostgreSQL, MySQL, Tableau, Git, and GitHub**.  
+**I'm interested in opportunities in cybersecurity, IT support, application support, software engineering, and data analytics.**
 
----
+## Technical Skills
 
-## 🛠️ Tools & Technologies  
+| Area | Technologies & Concepts |
+| --- | --- |
+| **Programming & web** | Python, Java, JavaScript, HTML, CSS, Bash |
+| **Cybersecurity & networking** | Linux, Windows, Wireshark, TCP/IP, HTTP, DNS, SMTP, security fundamentals, access control |
+| **Software development & testing** | Git, GitHub, Selenium, WebdriverIO, Mocha, Postman, Jira |
+| **Data & databases** | SQL, MySQL, PostgreSQL, pandas, NumPy, Jupyter Notebook, Excel, Power BI, Streamlit |
+| **Hardware & engineering** | Arduino, MATLAB, digital electronics, circuit troubleshooting |
 
-**Languages & Libraries**  
-`Python`, `SQL`, `JavaScript`, `HTML/CSS`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
+## Featured Projects
 
-**Databases & Analytics**  
-`PostgreSQL`, `MySQL`, `Excel`, `Power BI`, `Tableau`  
+Projects are grouped by focus area. Each entry links to source code, project files, or reports so you can explore the work directly.
 
-**Other Tools**  
-`Git`, `GitHub`, `Jupyter Notebook`, `VS Code`, `Selenium`, `Postman`, `Jira`  
+### Networking & Python
 
----
+#### Python HTTP Web Server
+**[Source code](https://github.com/Touheda812/assignment2-webserver)** · Python · TCP sockets · HTTP
 
-## 🚀 Projects  
+Implemented a socket-based web server for a computer networking assignment. The server accepts client connections, reads HTTP requests, serves an HTML file with a **200 OK** response, and returns **404 Not Found** when a requested file is unavailable. This project demonstrates client-server communication, protocol fundamentals, and step-by-step debugging.
 
-### 🔹 MTA Toll Calculator  
-🌐 **Live Website:** [mtatoll-calculator.pages.dev](https://mtatoll-calculator.pages.dev/)  
-📂 **Source Code:** [GitHub Repo](https://github.com/Touheda812/BootstrapMTACalc---2)  
+#### Python SMTP Email Client
+**[Source code](https://github.com/Touheda812/assignment3-smtpclient)** · Python · TCP sockets · SMTP
 
-A responsive web application that calculates toll costs for MTA bridges and tunnels.  
-- Built with **HTML, CSS (Bootstrap), and JavaScript**  
-- Helps commuters quickly estimate toll expenses for trips  
+Implemented an SMTP client that connects to a local mail server and sends the SMTP commands needed to transmit a message, including `HELO`, `MAIL FROM`, `RCPT TO`, `DATA`, and `QUIT`. Tested the client with a local SMTP server while troubleshooting connectivity and message delivery.
 
----
+### Software Development & Quality Assurance
 
-### 🔹 CBDTP Calculator  
-🌐 **Live Website:** [responsive-mta-tollcalculator.pages.dev](https://responsive-mta-tollcalculator.pages.dev/)  
-📂 **Source Code:** [GitHub Repo](https://github.com/Touheda812/CBDTP-Calculator---2)  
+#### MTA Toll Calculator
+**[Live demo](https://mtatoll-calculator.pages.dev/)** · **[Source code](https://github.com/Touheda812/BootstrapMTACalc---2)** · HTML · CSS · Bootstrap · JavaScript
 
-A web-based calculator for NYC’s Central Business District Tolling Program (CBDTP).  
-- Developed with **HTML, CSS, and JavaScript**  
-- Provides an easy way for commuters to see toll impacts under congestion pricing  
+A responsive web calculator for estimating MTA bridge and tunnel tolls. This project reflects my experience developing and supporting tolling-related interfaces and working through application issues.
 
----
+#### CBDTP Calculator
+**[Live demo](https://responsive-mta-tollcalculator.pages.dev/)** · **[Source code](https://github.com/Touheda812/CBDTP-Calculator---2)** · HTML · CSS · JavaScript
 
-### 🔹 Software Testing Capstone Project  
-📂 **Source Code:** [GitHub Repo](https://github.com/Touheda812/Software-Testing-Capstone-Project-)  
+A web-based calculator exploring toll costs under New York City's Central Business District Tolling Program. Focuses on presenting calculations in an accessible, user-friendly interface.
 
-A comprehensive software testing project completed after my Software Engineering Bootcamp.  
-- Focused on **functional testing, test case design, and bug tracking**  
-- Developed automated and manual tests to ensure software quality  
-- Tools used include **Selenium, Python, and JIRA**  
+#### Software Testing Capstone
+**[Project repository](https://github.com/Touheda812/Software-Testing-Capstone-Project-)** · Software testing · Test design · Automation
 
----
+A software testing capstone featuring work with test cases, application behavior, and defect investigation. Highlights my interest in software quality, validating expected behavior, and documenting issues.
 
-## 🎓 Computer Engineering Technology Projects
+### Data Analytics & Research
 
-### 🔹 Capstone Projects — Digital and Sequential Systems
+#### Academic Assessment Tracker
+**[Source code & screenshots](https://github.com/Touheda812/academic-assessment-tracker)** · Python · pandas · Streamlit
 
-📂 **Project collection:** [View capstone project files](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Capstone%20Project)
+A simulated student assessment analysis workflow. The repository includes CSV data cleaning, reporting notebooks, and a Streamlit dashboard displaying student records, intervention indicators, and average ELA and math scores by grade. It demonstrates transforming data into information that can support decisions.
 
-A collection of B.Tech capstone coursework and reports focused on digital displays and sequential systems.
+#### Water Quality Analysis
+**[Research notebooks](https://github.com/Touheda812/Water-Quality-Analysis)** · Python · Jupyter Notebook · Environmental data analysis
 
-- **Display Six Characters in a 16-Segment Display — Part 1:** [View report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/1-Display%20Six%20Characters%20in%2016-Segment%20Display.pdf)
-- **Display Six Characters in a 16-Segment Display — Part 2:** [View report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/2-Display%20Six%20Characters%20in%2016-Segment%20Display.pdf)
-- **Sequential System Project:** [View report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/Khanom%20Sequential%20System%20Project.docx.pdf)
+A collection of research notebooks examining lake water-quality data and satellite-derived measurements, including work involving Big Moose Lake and dissolved organic matter indicators. Showcases research-oriented data processing, analysis, and exploration of environmental datasets.
 
-**Areas:** Digital systems · Sequential logic · Computer engineering
+### Computer Engineering & Embedded Systems
 
----
+Explore my **[complete B.Tech Computer Engineering Technology repository](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering)** for additional coursework and reports.
 
+#### Digital and Sequential Systems Capstone Projects
+**[Capstone project collection](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Capstone%20Project)** · Digital logic · Sequential systems
 
+A set of documented engineering projects covering character display and sequential-system design:
 
-Selected hardware, embedded systems, and networking work from my B.Tech in Computer Engineering Technology at City Tech, CUNY. Explore the [complete B.Tech project repository](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering).
+- [Display Six Characters in a 16-Segment Display — Part 1](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/1-Display%20Six%20Characters%20in%2016-Segment%20Display.pdf)
+- [Display Six Characters in a 16-Segment Display — Part 2](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/2-Display%20Six%20Characters%20in%2016-Segment%20Display.pdf)
+- [Sequential System Project](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/Khanom%20Sequential%20System%20Project.docx.pdf)
 
-### 🔹 Build a Digital Trainer
-📂 **Project documentation:** [View files](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Build%20A%20Digital%20Trainer)
+#### Build a Digital Trainer
+**[Project documentation](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Build%20A%20Digital%20Trainer)** · Digital electronics · Hardware
 
-A hands-on digital electronics project focused on building a trainer for working with digital circuits and electronic components.
+A hands-on digital electronics project documented through objectives, tasks, and a project report. It reflects practical work with digital circuit concepts and electronic components.
 
-**Areas:** Digital electronics · Circuit assembly · Hardware systems
+#### Arduino Temperature-Controlled Fan
+**[Project report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/MATLAB%20%26%20Arduino/Arduino%20Temperature%20Controlled%20Fan.pdf)** · Arduino · Embedded systems
 
----
+An embedded systems project exploring how temperature readings can be used to control a fan with Arduino.
 
-### 🔹 Arduino Temperature-Controlled Fan
-📄 **Project report:** [View PDF](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/MATLAB%20%26%20Arduino/Arduino%20Temperature%20Controlled%20Fan.pdf)
+#### DC Motor Control Using MATLAB and Arduino
+**[Project report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/MATLAB%20%26%20Arduino/DC%20Motor%20Control%20Using%20MATLAB%20and%20Arduino.pdf)** · MATLAB · Arduino · Motor control
 
-An Arduino project exploring temperature-based fan control through embedded hardware and programming.
+An engineering project examining motor control through a combination of MATLAB and Arduino.
 
-**Areas:** Arduino · Embedded systems · Sensors and control
+#### Software-Defined Networking (SDN) Research
+**[Research paper](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Research%20Paper/Software-Defined%20Networking%20%28SDN%29.pdf)** · Networking · Technical research
 
----
+An academic paper exploring software-defined networking concepts and their relevance to network architecture and management.
 
-### 🔹 DC Motor Control Using MATLAB and Arduino
-📄 **Project report:** [View PDF](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/MATLAB%20%26%20Arduino/DC%20Motor%20Control%20Using%20MATLAB%20and%20Arduino.pdf)
+## Education
 
-A hardware and software project exploring motor control using MATLAB and Arduino.
+**New York University — Tandon School of Engineering**  
+M.S. in Cybersecurity · In progress
 
-**Areas:** MATLAB · Arduino · Hardware/software integration
+**New York City College of Technology (City Tech), CUNY**  
+B.Tech in Computer Engineering Technology · 2023
 
----
+## Connect
 
-### 🔹 Software-Defined Networking (SDN) Research
-📄 **Research paper:** [View PDF](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Research%20Paper/Software-Defined%20Networking%20%28SDN%29.pdf)
+I'm interested in learning, collaborating, and contributing to teams working on reliable, secure, and useful technology.
 
-An academic research paper on software-defined networking, connecting my computer engineering background with networking and IT infrastructure concepts.
-
-**Areas:** Computer networks · Software-defined networking · Technical research
-
----
-
-## 📫 Let’s Connect  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/touheda-khanom/)  
-- ✉️ Email: **touhedakhanom14@gmail.com**  
-- 💻 [GitHub](https://github.com/Touheda812)  
-
-Thanks for visiting! 🙌
+- **LinkedIn:** [linkedin.com/in/touheda-khanom](https://www.linkedin.com/in/touheda-khanom/)
+- **GitHub:** [github.com/Touheda812](https://github.com/Touheda812)
+- **Email:** [touhedakhanom14@gmail.com](mailto:touhedakhanom14@gmail.com)
