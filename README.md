@@ -66,6 +66,46 @@ A comprehensive software testing project completed after my Software Engineering
 
 ---
 
+## 🎓 Computer Engineering Technology Projects
+
+Selected hardware, embedded systems, and networking work from my B.Tech in Computer Engineering Technology at City Tech, CUNY. Explore the [complete B.Tech project repository](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering).
+
+### 🔹 Build a Digital Trainer
+📂 **Project documentation:** [View files](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Build%20A%20Digital%20Trainer)
+
+A hands-on digital electronics project focused on building a trainer for working with digital circuits and electronic components.
+
+**Areas:** Digital electronics · Circuit assembly · Hardware systems
+
+---
+
+### 🔹 Arduino Temperature-Controlled Fan
+📄 **Project report:** [View PDF](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/MATLAB%20%26%20Arduino/Arduino%20Temperature%20Controlled%20Fan.pdf)
+
+An Arduino project exploring temperature-based fan control through embedded hardware and programming.
+
+**Areas:** Arduino · Embedded systems · Sensors and control
+
+---
+
+### 🔹 DC Motor Control Using MATLAB and Arduino
+📄 **Project report:** [View PDF](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/MATLAB%20%26%20Arduino/DC%20Motor%20Control%20Using%20MATLAB%20and%20Arduino.pdf)
+
+A hardware and software project exploring motor control using MATLAB and Arduino.
+
+**Areas:** MATLAB · Arduino · Hardware/software integration
+
+---
+
+### 🔹 Software-Defined Networking (SDN) Research
+📄 **Research paper:** [View PDF](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Research%20Paper/Software-Defined%20Networking%20%28SDN%29.pdf)
+
+An academic research paper on software-defined networking, connecting my computer engineering background with networking and IT infrastructure concepts.
+
+**Areas:** Computer networks · Software-defined networking · Technical research
+
+---
+
 ## 📫 Let’s Connect  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/touheda-khanom/)  
