@@ -14,7 +14,7 @@
 
 ---
 
-**Explore:** [About](#about-me) · [Experience](#professional-experience) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Cybersecurity Labs](#cybersecurity--networking-labs) · [Education](#education) · [Contact](#connect)
+**Explore:** [About](#about-me) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Cybersecurity Labs](#cybersecurity--networking-labs) · [Education](#education) · [Contact](#connect)
 
 ## About Me
 
@@ -25,16 +25,6 @@ My experience combines hands-on technical work with user-facing support. At **MT
 Through academic, research, and independent projects, I've worked with Python, JavaScript, SQL, networking protocols, software testing, data analysis, Arduino, and digital electronics. I enjoy understanding how systems work, troubleshooting problems methodically, and building practical solutions.
 
 **I'm interested in opportunities in cybersecurity, IT support, application support, software engineering, and data analytics.**
-
-## Professional Experience
-
-| Organization | Role & Contributions |
-| --- | --- |
-| **York College, CUNY — Financial Aid Office** | Assist students with financial aid questions, explain processes clearly, support administrative workflows, and handle confidential student information carefully. |
-| **MTA Bridges & Tunnels — ITS & Tolling Operations Intern** | Worked on internal tolling-related web interfaces, investigated application issues, tested functionality, and documented operational concerns. |
-| **Morgan Stanley — Internship** | Gained experience debugging Java applications and investigating software issues. |
-
-My experience has strengthened both my **technical troubleshooting** and **communication with end users**—skills I bring to IT support, application support, and cybersecurity work.
 
 ## Technical Skills
 
