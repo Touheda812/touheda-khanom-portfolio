@@ -68,6 +68,22 @@ A comprehensive software testing project completed after my Software Engineering
 
 ## 🎓 Computer Engineering Technology Projects
 
+### 🔹 Capstone Projects — Digital and Sequential Systems
+
+📂 **Project collection:** [View capstone project files](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Capstone%20Project)
+
+A collection of B.Tech capstone coursework and reports focused on digital displays and sequential systems.
+
+- **Display Six Characters in a 16-Segment Display — Part 1:** [View report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/1-Display%20Six%20Characters%20in%2016-Segment%20Display.pdf)
+- **Display Six Characters in a 16-Segment Display — Part 2:** [View report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/2-Display%20Six%20Characters%20in%2016-Segment%20Display.pdf)
+- **Sequential System Project:** [View report](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/blob/main/Projects/Capstone%20Project/Khanom%20Sequential%20System%20Project.docx.pdf)
+
+**Areas:** Digital systems · Sequential logic · Computer engineering
+
+---
+
+
+
 Selected hardware, embedded systems, and networking work from my B.Tech in Computer Engineering Technology at City Tech, CUNY. Explore the [complete B.Tech project repository](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering).
 
 ### 🔹 Build a Digital Trainer
