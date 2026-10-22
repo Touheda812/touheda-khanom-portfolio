@@ -1,7 +1,20 @@
-# Touheda Khanom
-**Cybersecurity Graduate Student | Computer Engineering Technologist | IT Support, Software Development & Data Analytics**
+<div align="center">
 
-📍 New York, NY · [LinkedIn](https://www.linkedin.com/in/touheda-khanom/) · [GitHub](https://github.com/Touheda812) · [Email](mailto:touhedakhanom14@gmail.com)
+# Touheda Khanom
+
+### Cybersecurity Graduate Student · IT & Application Support · Software Development · Data Analytics
+
+**New York, NY**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/touheda-khanom/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/Touheda812)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?logo=gmail&logoColor=white)](mailto:touhedakhanom14@gmail.com)
+
+</div>
+
+---
+
+**Explore:** [About](#about-me) · [Experience](#professional-experience) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Cybersecurity Labs](#cybersecurity--networking-labs) · [Education](#education) · [Contact](#connect)
 
 ## About Me
 
@@ -12,6 +25,16 @@ My experience combines hands-on technical work with user-facing support. At **MT
 Through academic, research, and independent projects, I've worked with Python, JavaScript, SQL, networking protocols, software testing, data analysis, Arduino, and digital electronics. I enjoy understanding how systems work, troubleshooting problems methodically, and building practical solutions.
 
 **I'm interested in opportunities in cybersecurity, IT support, application support, software engineering, and data analytics.**
+
+## Professional Experience
+
+| Organization | Role & Contributions |
+| --- | --- |
+| **York College, CUNY — Financial Aid Office** | Assist students with financial aid questions, explain processes clearly, support administrative workflows, and handle confidential student information carefully. |
+| **MTA Bridges & Tunnels — ITS & Tolling Operations Intern** | Worked on internal tolling-related web interfaces, investigated application issues, tested functionality, and documented operational concerns. |
+| **Morgan Stanley — Internship** | Gained experience debugging Java applications and investigating software issues. |
+
+My experience has strengthened both my **technical troubleshooting** and **communication with end users**—skills I bring to IT support, application support, and cybersecurity work.
 
 ## Technical Skills
 
@@ -26,6 +49,17 @@ Through academic, research, and independent projects, I've worked with Python, J
 ## Featured Projects
 
 Projects are grouped by focus area. Each entry links to source code, project files, or reports so you can explore the work directly.
+
+### At a Glance
+
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **Python HTTP Web Server** | Python, TCP sockets, HTTP responses | [Code](https://github.com/Touheda812/assignment2-webserver) |
+| **Python SMTP Email Client** | Python, SMTP, client-server networking | [Code](https://github.com/Touheda812/assignment3-smtpclient) |
+| **MTA Toll Calculator** | JavaScript, responsive web UI | [Live demo](https://mtatoll-calculator.pages.dev/) |
+| **Academic Assessment Tracker** | Python, pandas, Streamlit dashboard | [Code & screenshots](https://github.com/Touheda812/academic-assessment-tracker) |
+| **Water Quality Analysis** | Python, research, Jupyter notebooks | [Notebooks](https://github.com/Touheda812/Water-Quality-Analysis) |
+| **Digital Systems Capstone** | 16-segment displays, sequential systems | [Reports](https://github.com/Touheda812/Touheda-BTECH-Computer-Engineering/tree/main/Projects/Capstone%20Project) |
 
 ### Networking & Python
 
@@ -62,6 +96,12 @@ A software testing capstone featuring work with test cases, application behavior
 **[Source code & screenshots](https://github.com/Touheda812/academic-assessment-tracker)** · Python · pandas · Streamlit
 
 A simulated student assessment analysis workflow. The repository includes CSV data cleaning, reporting notebooks, and a Streamlit dashboard displaying student records, intervention indicators, and average ELA and math scores by grade. It demonstrates transforming data into information that can support decisions.
+
+**Project screenshots** (from the original repository):
+
+<img src="https://github.com/user-attachments/assets/e2a825dc-7954-4506-bfb4-f3074f1348a4" alt="Academic Assessment Tracker screenshot 1" width="680" />
+
+<img src="https://github.com/user-attachments/assets/20e315f1-1edd-48e0-acb5-84e96d8c1252" alt="Academic Assessment Tracker screenshot 2" width="680" />
 
 #### Water Quality Analysis
 **[Research notebooks](https://github.com/Touheda812/Water-Quality-Analysis)** · Python · Jupyter Notebook · Environmental data analysis
@@ -101,6 +141,23 @@ An engineering project examining motor control through a combination of MATLAB a
 
 An academic paper exploring software-defined networking concepts and their relevance to network architecture and management.
 
+## Cybersecurity & Networking Labs
+
+Alongside the projects above, my cybersecurity and networking coursework has included hands-on exercises in protocol analysis, operating-system security, and security fundamentals. The examples below describe **coursework experience**; they are not presented as separately published GitHub projects.
+
+| Lab area | What I practiced |
+| --- | --- |
+| **Wireshark traffic analysis** | Examined HTTP, DNS, TCP, UDP, and TLS traffic; identified packet fields and interpreted protocol behavior. |
+| **TCP/IP troubleshooting** | Analyzed TCP connection setup, ports, addressing, and request/response communication. |
+| **Linux & system permissions** | Worked with command-line tools, file permissions, and access-control concepts. |
+| **Security fundamentals** | Explored hashing, authentication, threat modeling, and secure handling of information. |
+
+**Public networking code:** [Python HTTP Web Server](https://github.com/Touheda812/assignment2-webserver) · [Python SMTP Client](https://github.com/Touheda812/assignment3-smtpclient)
+
+*Future addition:* Sanitized lab write-ups and screenshots, where sharing is permitted. I do not publish confidential captures, credentials, or restricted course materials.
+
+---
+
 ## Education
 
 **New York University — Tandon School of Engineering**  
@@ -108,6 +165,10 @@ M.S. in Cybersecurity · In progress
 
 **New York City College of Technology (City Tech), CUNY**  
 B.Tech in Computer Engineering Technology · 2023
+
+## Resume
+
+A current PDF resume can be added here once the final version is ready. Until then, my [LinkedIn profile](https://www.linkedin.com/in/touheda-khanom/) summarizes my background and experience.
 
 ## Connect
 
