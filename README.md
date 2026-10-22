@@ -18,13 +18,9 @@
 
 ## About Me
 
-I'm a cybersecurity graduate student at **NYU Tandon School of Engineering** with a **B.Tech in Computer Engineering Technology from City Tech, CUNY**. My interests span cybersecurity, IT and application support, networking, software development, and data analytics.
+I'm a cybersecurity master's student at **NYU Tandon** with a **B.Tech in Computer Engineering Technology from City Tech, CUNY**. I enjoy solving technical problems and building practical solutions through cybersecurity, networking, software development, and data analytics projects.
 
-My experience combines hands-on technical work with user-facing support. At **MTA Bridges & Tunnels**, I worked with internal tolling-related web applications and investigated application issues. During an internship at **Morgan Stanley**, I gained experience debugging Java applications. In my current role at **York College's Financial Aid Office**, I assist students, explain processes clearly, and handle confidential information responsibly.
-
-Through academic, research, and independent projects, I've worked with Python, JavaScript, SQL, networking protocols, software testing, data analysis, Arduino, and digital electronics. I enjoy understanding how systems work, troubleshooting problems methodically, and building practical solutions.
-
-**I'm interested in opportunities in cybersecurity, IT support, application support, software engineering, and data analytics.**
+I'm interested in opportunities in **cybersecurity, IT support, software engineering, and data analytics**.
 
 ## Technical Skills
 
